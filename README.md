@@ -54,5 +54,4 @@ The dataset was accessed directly from Kaggle using the following path:
 
 No dataset file has been uploaded to this repository.
 
-## Status
-Task 1 completed successfully ✔️
+Task 1 completed 
